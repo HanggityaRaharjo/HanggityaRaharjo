@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HanggityaRaharjo
-- 👀 I’m interested in Website Programming
-- 🌱 I’m currently learning API for now
+- 👀 I’m as a full stack Developer
 - 💞️ I’m looking to collaborate on Git
 - 📫 How to reach me Instagram : @rhanggitya , Gmail : hanggitya86@gmail.com & LinkedIn : Hanggitya Raharjo
 
